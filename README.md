@@ -6,7 +6,7 @@ Welcome to the Semester Three Notes repository for CS Majors! 📚 This reposito
 | Course Code | Course Name | Credit Hours | Difficulty |
 |-------------|-------------|--------------|------------|
 | CE - 221   | Digital Logic Design and Labs | 4 | Medium |
-| DS - 221   | Inferential Statistics and Applied Probability | 3 | High |
+| DS - 221   | Inferential Statistics and Applied Probability | 3 | Medium |
 | CS - 221   | Data Structures and Algorithms and Labs | 4 | High |
 | CS - 231   | Discrete Mathematics | 3 | Easy |
 | CS - 202   | Introduction to Information Technology | 2 | Easy |
