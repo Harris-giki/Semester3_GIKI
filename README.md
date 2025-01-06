@@ -1,4 +1,4 @@
-# Semester One Notes and Resources
+# Semester Three Notes and Resources
 
 Welcome to the Semester Three Notes repository for the CS Majors! This repository provides comprehensive notes and resources for students at Ghulam Ishaq Khan Institute, Topi, Swabi-KPK Pakistan majoring in Computer Science and related fields. These materials aim to help sophomores navigate their academic journey with ease and confidence.
 
